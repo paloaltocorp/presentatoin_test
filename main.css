@@ -1,3 +1,17 @@
+s{
+  border:1px solid #000;
+  font-size:75px;
+  width:50%;
+}
+
+s left{
+  float:left;
+}
+
+s right{
+  float: right;
+}
+
 body {
   padding: 0;
   margin: 0;
