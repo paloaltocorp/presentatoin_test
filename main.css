@@ -12,7 +12,7 @@ body {
 .slide {
   scroll-snap-align: start;
   min-width: 100vw;
-  height: 600px;
+  height: 600vh;
   display: flex;
   align-items: center;
   justify-content: center;
