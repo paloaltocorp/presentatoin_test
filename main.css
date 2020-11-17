@@ -8,7 +8,6 @@
 
 .item {
   display: inline-block;
-  height: 100px;
-  overflow: hidden;
- 
+  height: 200px;
+  width:150px;
 }
