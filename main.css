@@ -8,8 +8,10 @@
 
 .item {
   display: inline-block;
+  height: 100px;
+  overflow:hidden;
   
   img {
-    max-height: 100vh;
+    /* max-height: 100vh; */
   }
 }
