@@ -25,3 +25,21 @@ body {
 
 p{font-size:45px;}
 h1{font-size:50px;}
+
+button{
+  height: 80px;
+  margin: 20px;
+  width: 367px;
+  background-color: rgb(0, 149, 246);
+  border-radius: 4px;
+  font-size: 40px;
+  float: right;
+  color: #eee;
+  font-weight: 700;
+  border: 1px solid rgb(0, 149, 246);
+}
+
+header{
+  height: 120px;
+  border: 1px solid #000;
+}
