@@ -32,8 +32,7 @@ body {
 .slide {
   scroll-snap-align: start;
   min-width: 100vw;
-  height: 600px;
-  display: flex;
+  height: 100vh;
   align-items: center;
   justify-content: center;
 }
