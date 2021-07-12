@@ -1,0 +1,14 @@
+.main-content{
+	max-width:500px;
+	width:100vh;
+	height:100vh;
+	margin:0 auto;
+}
+
+.main-content h1{
+	margin:20px 10px;
+}
+
+.main-content video{
+	width:100%;
+}
